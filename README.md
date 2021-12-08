@@ -130,3 +130,13 @@ Certaines activités consommeront du matériel qu'il faudra racheter.
 #### Hasard
 
 Le jeu aura une part de hasard basé sur un sel choisi au démarrage d'une partie.
+
+## 4. Monétisation
+
+De façon à ce que ce jeu reste un bon jeu pour le joueur, il faut envisager de monétiser le jeu pour financer
+les développements à venir (nouvelles fonctionnalités, améliorations, corrections, etc.).
+
+Afin de ne pas dégrader l'expérience de jeu il convient de se fixer des règles autour de cette monétisation :
+- l'achat in-app est un moyen donné au joueur de contribuer financièrement au jeu
+- le contenu acheté **ne doit pas changer les règles du jeu**, le jeu doit être aussi simple pour tous les joueurs
+- le contenu acheté peut être cosmétique, comme un thème personnalisé de l'app ou à la façon du home-housing
